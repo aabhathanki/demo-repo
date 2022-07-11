@@ -3,6 +3,7 @@
  void main{
  clrscr();
  cout<<"hello world";
+cout<<" I am c++ programmer";
  gech();
  
  
